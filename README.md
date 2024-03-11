@@ -12,7 +12,7 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/bonettibruno24">
-  <img height="150em" src="[https://github-readme-stats.vercel.app/api?username=arTiwnl&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://wakatime.com/share/@018c0596-9b67-4052-a996-d168f281646f/08677800-a6b6-4600-8154-7763ade6b3d8.json)">
+ <img src="https://wakatime.com/share/@018c0596-9b67-4052-a996-d168f281646f/08677800-a6b6-4600-8154-7763ade6b3d8.json">
 
 
 
