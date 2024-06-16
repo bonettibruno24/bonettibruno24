@@ -15,7 +15,6 @@
   ##
   
 <div style="display: inline_block"> 
- <a href="mailto:bonettibruno.silva@gmail.com"><img data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="www.linkedin.com/in/bonettibruno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
