@@ -6,7 +6,7 @@
 
  🖼️ Graphic Designer & Ux/Ui Designer <br>
  🔭 Focused in Front-end Development<br>
- 🌱 const learningLanguage = ('TypeScript' & 'C++') <br>
+ 🌱 Learning  TypeScript & C++ <br>
 ##
 
 <div style="display: inline_block">
