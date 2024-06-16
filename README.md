@@ -1,12 +1,12 @@
 
 <div align="center">  
 
-## Hi thare!
-## I'm Bruno Bonetti web developer. 👨‍💻⚛️
+## Hi thare everyone!
+## I'm Bruno Bonetti, focused on developing. 👨‍💻⚛️
 
- 🖼️ Graphic Designer & Ux/Ui Designer <br>
+ 🖼️ Graphic Designer & <strong>Ux/Ui Designer</strong><br>
  🔭 Focused in Front-end Development<br>
- 🌱 Learning  TypeScript & C++ <br>
+ 🌱 Learning TypeScript & C++ <br>
 ##
 
 <div style="display: inline_block">
