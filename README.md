@@ -5,8 +5,8 @@
 ## I'm Bruno Bonetti, focused on developing. 👨‍💻⚛️
 
  🖼️ <strong>Graphic Designer</strong> & <strong>Ux/Ui Designer</strong><br>
- 🔭 Focused in Front-end Development<br>
- 🌱 Learning TypeScript & C++ <br>
+ 🔭 Focused in <strong>front-end development</strong><br>
+ 🌱 Learning <strong>TypeScript & C++</strong><br>
 ##
 
 <div style="display: inline_block">
