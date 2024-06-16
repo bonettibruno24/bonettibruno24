@@ -2,7 +2,7 @@
 <div align="center">  
 
 ## Hi thare!
- I'm Bruno Bonetti 👨‍💻⚛️
+## I'm Bruno Bonetti 👨‍💻⚛️
 
 
 
