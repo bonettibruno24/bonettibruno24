@@ -4,11 +4,9 @@
 ## Hi thare!
 ## I'm Bruno Bonetti 👨‍💻⚛️
 
-
-
  🖼️ Graphic Designer & Ux/Ui Designer <br>
  🔭 Focused in Front-end Development<br>
- 🌱 Learning TypeScript & Angular<br>
+ 🌱 const learningLanguage = ('TypeScript' & 'C++') <br>
 ##
 
 <div style="display: inline_block">
