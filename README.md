@@ -1,7 +1,7 @@
 
 <div align="center">  
 
-## Hi thare! I'm Bruno Silva 😃
+## Hi thare! I'm Bruno Bonetti 👨‍💻⚛️
 
 
 
