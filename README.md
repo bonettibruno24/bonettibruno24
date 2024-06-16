@@ -2,7 +2,7 @@
 <div align="center">  
 
 ## Hi thare!
-## I'm Bruno Bonetti 👨‍💻⚛️
+## I'm Bruno Bonetti web developer. 👨‍💻⚛️
 
  🖼️ Graphic Designer & Ux/Ui Designer <br>
  🔭 Focused in Front-end Development<br>
