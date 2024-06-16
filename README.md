@@ -4,7 +4,7 @@
 ## Hi thare everyone!
 ## I'm Bruno Bonetti, focused on developing. 👨‍💻⚛️
 
- 🖼️ Graphic Designer & <strong>Ux/Ui Designer</strong><br>
+ 🖼️ <strong>Designer</strong>Graphic & <strong>Ux/Ui Designer</strong><br>
  🔭 Focused in Front-end Development<br>
  🌱 Learning TypeScript & C++ <br>
 ##
