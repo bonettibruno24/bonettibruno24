@@ -1,7 +1,7 @@
 
 <div align="center">  
 
-## Hi thare everyone!
+## Hi there everyone!
 ## I'm Bruno Bonetti, focused on developing. 👨‍💻⚛️
 
  🖼️ <strong>Graphic Designer</strong> & <strong>Ux/Ui Designer</strong><br>
